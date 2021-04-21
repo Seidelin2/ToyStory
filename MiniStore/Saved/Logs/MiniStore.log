@@ -4674,3 +4674,13 @@ Continue: Skip saving this asset only.
 [2021.04.21-13.17.55:142][338]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.21-13.17.55:142][338]LogContentValidation: Display: Validating World /Game/MMSupermarket/Maps/Supermarket_Map.Supermarket_Map
 [2021.04.21-13.17.55:142][338]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MMSupermarket/Maps/Supermarket_Map_BuiltData.Supermarket_Map_BuiltData
+[2021.04.21-13.19.31:167][770]LogSlate: Window 'Message Log' being destroyed
+[2021.04.21-13.19.31:181][770]LogSlate: Window 'Message Log' being destroyed
+[2021.04.21-13.34.32:287][875]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.21-13.34.35:909][113]LogSavePackage: Moving '../../../../../Unreal Games School/ToyStory/MiniStore/Saved/ThirdPersonCharacter7B61A4D340517BEA53D300865794F740.tmp' to '../../../../../Unreal Games School/ToyStory/MiniStore/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.21-13.34.35:925][113]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.21-13.34.35:925][113]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.21-13.35.13:437][405]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.21-13.35.13:453][405]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.21-13.35.13:477][405]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-13.35.13:477][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
